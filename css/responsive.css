@@ -12,6 +12,10 @@
     font-size: 6rem;
   }
 
+  #featured .ft-story {
+    padding: 5rem 0 0 1rem;
+  }
+
   #featured .products ul {
     padding-top: 1.5rem;
   }
