@@ -9,7 +9,8 @@
 
   .jumbotron h1 {
     font-family: 'Monoton', cursive;
-    font-size: 6rem;
+    font-size: 5.3rem;
+    margin: auto;
   }
 
   #featured .ft-story {
